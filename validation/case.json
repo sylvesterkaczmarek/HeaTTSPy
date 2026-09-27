@@ -1,0 +1,12 @@
+{
+  "base": "eb7ccb852a362a153bba2a9fe9952233cab7d077",
+  "base_branch": "main",
+  "repo": "nasa/HeaTTSPy",
+  "issue_url": "https://github.com/nasa/HeaTTSPy/issues/1",
+  "issue": 1,
+  "branch": "fix/lmtd-equal-differences-20260927",
+  "head": "cce2a93c993a43b89a363aa7327c251daf029ce8",
+  "title": "Evaluate the log-mean temperature difference at equal terminal differences",
+  "source": "heatsspy/HE_files/LMTD.py",
+  "test": "heatsspy/HE_files/test/test_LMTD_limits.py"
+}
